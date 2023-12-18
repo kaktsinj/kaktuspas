@@ -28,7 +28,7 @@ ComfyWare
 
 ## установка
 
-- [mega.nz](https://mega.nz/file/pVowUZgb#kr4US-PhVHj0Y8UxsZbycpQOOQC8uyvsuNEd5rnHu1E)
+- [mega.nz](https://mega.nz/file/FZolETjZ#Aekzjklvxo8SncbuAG9Iy8WB1L1GJF3wTc2cYYAasj4)
 
 ## как установить
 
